@@ -1,1 +1,2 @@
-print('Anyone who stops learning is old whether at twenty or eighty')
+print('\033[93m\"Anyone who\nstops\nlearning is old,\nwhether at twenty or eighty\"\033[0m\nHenry Ford')
+
